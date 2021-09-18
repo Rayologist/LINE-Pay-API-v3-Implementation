@@ -100,3 +100,7 @@ console.log(resp);
 ## 4. Resources
 
 - [LINE Pay API v3 Documentation](https://pay.line.me/jp/developers/apis/onlineApis?locale=en_US)
+
+## 5. Contact
+
+if you have any suggestion or question, please do not hesitate to email me at rayologist1002@gmail.com
