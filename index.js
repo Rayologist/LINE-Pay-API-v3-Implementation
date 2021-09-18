@@ -1,2 +1,2 @@
-import LinePay from "../line-payment/LinePay";
+import LinePay from "./lib/LinePay";
 export default LinePay;
