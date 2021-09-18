@@ -3,9 +3,10 @@
 This package implements LINE Pay API v3 in Node.js.
 
 Packages Used:
-* `uuid`
-* `node-fetch`
-* `dotenv`
+
+- `uuid`
+- `node-fetch`
+- `dotenv`
 
 # Usage
 
@@ -39,8 +40,8 @@ const linePay = new LinePay({
   secretKey: process.env.SECRET_KEY,
   isProduction: false,
 });
-
 ```
+
 ### 2. Merchandise Infomation Example
 
 ```node
@@ -69,7 +70,6 @@ const merch = {
     cancelUrl: "https://www.apple.com/tw/iphone-13-pro/",
   },
 };
-
 ```
 
 ### 3. Await response
@@ -100,4 +100,3 @@ console.log(resp);
 ## 4. Resources
 
 - [LINE Pay API v3 Documentation](https://pay.line.me/jp/developers/apis/onlineApis?locale=en_US)
-
