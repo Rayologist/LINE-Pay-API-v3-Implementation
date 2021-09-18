@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Rayologist/LINE-Pay-API-v3-Implementation.git"
   },
-  "keywords": ["LINE", "LINE Pay", "v3", "LINE Pay API", "API Authentication"],
+  "keywords": [
+    "LINE",
+    "LINE Pay",
+    "v3",
+    "LINE Pay API",
+    "API Authentication"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
