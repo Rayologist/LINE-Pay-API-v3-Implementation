@@ -4,7 +4,7 @@ This package implements LINE Pay API v3 in Node.js.
 
 Packages Used:
 
-- `uuid`
+- `crypto` (built-in)
 - `node-fetch`
 - `dotenv`
 
