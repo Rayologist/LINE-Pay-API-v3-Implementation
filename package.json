@@ -1,5 +1,5 @@
 {
-  "name": "line-pay-api-v3-implementation",
+  "name": "line-pay-api-v3",
   "version": "1.0.0",
   "description": "This package implements LINE Pay API v3 in Node.js.",
   "main": "index.js",
